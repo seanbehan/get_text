@@ -7,9 +7,8 @@ chardet==2.3.0
 cssselect==0.9.1
 gunicorn==19.3.0
 itsdangerous==0.24
-lxml==3.4.4
-readability==0.1
-readability-lxml==0.5.1
+lxml==3.5.0
+readability==0.2
+readability-lxml==0.6.1
 requests==2.8.1
-scikits.audiolab==0.11.0
 wsgiref==0.1.2
