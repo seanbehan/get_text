@@ -6,6 +6,7 @@ beautifulsoup4==4.4.1
 gunicorn==19.3.0
 itsdangerous==0.24
 lxml==3.4.4
-readability==0.2
+readability==0.1
+readability-lxml==0.5.1
 requests==2.8.1
 wsgiref==0.1.2
