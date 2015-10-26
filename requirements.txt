@@ -5,6 +5,7 @@ Werkzeug==0.10.4
 beautifulsoup4==4.4.1
 gunicorn==19.3.0
 itsdangerous==0.24
+lxml==3.4.4
 readability==0.2
 requests==2.8.1
 wsgiref==0.1.2
