@@ -1,0 +1,6 @@
+{
+  "name": "Getext",
+  "description": "Get text from webpages",
+  "repository": "https://github.com/seanbehan/get_text",
+  "keywords": ["flask", "python", "requests", "http"]
+}
