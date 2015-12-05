@@ -1,4 +1,7 @@
+# About
 
-Extract text from web pages. Check it out at http://getext.herokuapp.com
+A small web service written in Flask to extract text from web pages.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+Check out the demo at http://getext.herokuapp.com.
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
